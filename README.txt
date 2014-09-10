@@ -5,7 +5,12 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
 
 \f0\fs24 \cf0 Nikita Voskoboynik\
+<<<<<<< HEAD
 Version Control Lab\
-Partner: Larry Rubin\
+\
 \
 This might cause a merge conflict}
+=======
+Version Control Lab
+Partner: Lawrence Rubin}
+>>>>>>> c88ea225bc643935a7f1d5f3e5a42f57c7b33d3d
